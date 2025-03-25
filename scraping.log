@@ -1,0 +1,26 @@
+2025-03-20 14:28:29,710 - INFO - Iniciando o scraping para: https://www.debit.com.br/tabelas/igpm-fgv-indice-geral-de-precos-mercado
+2025-03-20 14:28:29,711 - INFO - ====== WebDriver manager ======
+2025-03-20 14:28:32,101 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:28:32,297 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:28:32,460 - INFO - Driver [C:\Users\ander\.wdm\drivers\chromedriver\win64\134.0.6998.90\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-20 14:28:40,736 - INFO - Scraping completo para: https://www.debit.com.br/tabelas/igpm-fgv-indice-geral-de-precos-mercado
+2025-03-20 14:28:40,736 - INFO - Iniciando o scraping para: https://www.debit.com.br/tabelas/ipca-indice-nacional-de-precos-ao-consumidor-amplo
+2025-03-20 14:28:40,736 - INFO - ====== WebDriver manager ======
+2025-03-20 14:28:42,376 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:28:42,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:28:46,726 - INFO - Driver [C:\Users\ander\.wdm\drivers\chromedriver\win64\134.0.6998.90\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-20 14:28:54,295 - INFO - Scraping completo para: https://www.debit.com.br/tabelas/ipca-indice-nacional-de-precos-ao-consumidor-amplo
+2025-03-20 14:32:17,893 - INFO - Iniciando o scraping para: https://www.debit.com.br/tabelas/igpm-fgv-indice-geral-de-precos-mercado
+2025-03-20 14:32:17,895 - INFO - ====== WebDriver manager ======
+2025-03-20 14:32:19,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:32:19,956 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:32:20,095 - INFO - Driver [C:\Users\ander\.wdm\drivers\chromedriver\win64\134.0.6998.90\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-20 14:32:27,195 - WARNING - Nenhuma tabela encontrada na página: https://www.debit.com.br/tabelas/igpm-fgv-indice-geral-de-precos-mercado
+2025-03-20 14:32:29,471 - INFO - Scraping completo para: https://www.debit.com.br/tabelas/igpm-fgv-indice-geral-de-precos-mercado
+2025-03-20 14:32:29,471 - INFO - Iniciando o scraping para: https://www.debit.com.br/tabelas/ipca-indice-nacional-de-precos-ao-consumidor-amplo
+2025-03-20 14:32:29,471 - INFO - ====== WebDriver manager ======
+2025-03-20 14:32:31,650 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:32:31,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-20 14:32:36,049 - INFO - Driver [C:\Users\ander\.wdm\drivers\chromedriver\win64\134.0.6998.90\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-20 14:32:41,103 - WARNING - Nenhuma tabela encontrada na página: https://www.debit.com.br/tabelas/ipca-indice-nacional-de-precos-ao-consumidor-amplo
+2025-03-20 14:32:43,493 - INFO - Scraping completo para: https://www.debit.com.br/tabelas/ipca-indice-nacional-de-precos-ao-consumidor-amplo
